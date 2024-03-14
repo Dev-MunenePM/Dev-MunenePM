@@ -29,7 +29,11 @@ Hello! 👋 I'm Munene Phares Mugo, a tech enthusiast and software developer bas
 
 - [iDerm]
   - Description: AI-Powered Melanoma Detection Android Application.
-  - Technologies Used: Android with Java; Firebase.
+  - Technologies Used: Android with Java
+  - Firebase
+  - Kaggle
+  - Tensorflow
+  - Google Maps API
 
 
 ## Contact Me
