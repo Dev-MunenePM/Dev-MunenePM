@@ -36,10 +36,7 @@ Hello! 👋 I'm Munene Phares Mugo, a tech enthusiast and software developer bas
   - Google Maps API
 
 
-## Contact Me
 
-- LinkedIn: [linkedin.com/in/phares-mugo-00a007272]
-- Email: [pharesmmunene@gmail.com]
 
 
 <!---
